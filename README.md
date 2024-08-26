@@ -9,8 +9,6 @@ Welcome to my GitHub! I'm Samir, a frontend engineer with a deep passion for web
 In my free time, you'll find me attending workshops, reading tech articles, and working on side projects to further my knowledge. The process of writing clean, efficient code and bringing concepts to life on the web is something I truly enjoy. I’m excited to continue growing and contributing to the world of web development.
 </p>
 
-<a href="https://github.com//samirzjadhav?tab=followers"><img src="https://img.shields.io/github/followers//samirzjadhav?label=Followers&style=social" alt="GitHub Badge"></a>
-
 <hr>
 
 - 💬 Ask me about **Web Development, Frontend Engineering**
