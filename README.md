@@ -13,7 +13,7 @@ In my free time, you'll find me attending workshops, reading tech articles, and 
 
 - 💬 Ask me about **Web Development, Frontend Engineering**
 
-- 👨‍💻 Check out my personal portfolio: **<a href="https://portfolio-nu-five-95.vercel.app/" target="_blank">Portfolio</a>**
+- 👨‍💻 Check out my personal portfolio: **<a href="[https://samirj.vercel.app/]" target="_blank">Portfolio</a>**
 
 - 😄 Pronouns: He/Him
 
